@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2DTSaNeUPWfkCuLRRFpeQe+hS1nyvDq4MPY0h2//N47copAZbkolTAyDVrPOncZpcptcj17P31mS+8g0+K1gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paytr\\Documents\\Giovani\\Projetos\\ThreadTest\\ThreadTest\\ThreadTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paytr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\paytr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paytr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paytr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
